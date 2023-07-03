@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ejemplo-estructura-angular-app"
+    }
+  },
+  "defaultProject": "ejemplo-estructura-angular-app",
+  "cli": {
+    "analytics": "8e82486e-4503-4d89-a753-94cb12431a4f"
+  }
 }
